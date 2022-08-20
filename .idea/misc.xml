@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/app/src/main/res/layout/activity_main.xml" value="0.1359375" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/add_gray.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/cancel_gray.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/danger_background.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/danger_icon.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/info_background.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/info_icon.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/success_background.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/success_icon.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/warning_backgroud.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/drawable/white_back_icon.xml" value="0.1" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/font/proxima_nova.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/dsa.xml" value="0.1359375" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/error_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/info_dialog.xml" value="0.176" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/info_dialog_error.xml" value="0.264" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/success_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/warning_dialog.xml" value="0.176" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/xml/color.xml" value="0.1359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
