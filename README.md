@@ -53,7 +53,15 @@ For Sweet Success with Short Duration, Top Padding and Aligment :
                 })
                 .build()
 ```
+ 
+ 
+
+##  Developed By 
+
+ <img src="https://user-images.githubusercontent.com/80040232/185811123-c8f24d5b-134f-4bc3-aa2e-7a033901bc4d.png" width="70" align="left">
 
 
+**Furkan Akalın**
 
+[![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/furkan-akalin/)
 
