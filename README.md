@@ -30,7 +30,6 @@ implementation 'com.github.furkanakak:SneakerView:1.1'
  
 ```
  binding.success.setOnClickListener {
-            Log.v("sneaker","success")
             Sneaker.Builder()
                 .setActivity(this) /* optionally, these -> .setFragment() .setViewGroup() */
                 .setType(SneakerType.Success)
