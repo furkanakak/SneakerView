@@ -1,3 +1,3 @@
 # SneakerView
 
-<image src="https://user-images.githubusercontent.com/80040232/185769402-15cb23db-eabc-40aa-9bf1-344ab1d13ecf.PNG" width="500">
+<image src="https://user-images.githubusercontent.com/80040232/185802423-2e503a8e-4cb2-4a8f-8aca-ef453dba50ca.png" width="500">
