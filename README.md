@@ -54,7 +54,11 @@ For Sweet Success with Short Duration, Top Padding and Aligment :
                 .build()
 ```
  
+ ## Libraries and resources used
+ https://github.com/Hamadakram/Sneaker
  
+ https://github.com/florent37/ViewAnimator
+
 
 ##  Developed By 
 
