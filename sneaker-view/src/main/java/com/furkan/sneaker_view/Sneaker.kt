@@ -20,7 +20,7 @@ class Sneaker private constructor(builder: Builder) {
     private var title: String = ""
     private var content: String = ""
     private var iconVisible: Boolean = true
-    private var duration: Int = 1000
+    private var duration: Int = 3000
     private var autoHide: Boolean = true
     private var buttonName: String = ""
     private var arrowIcon: Boolean = false
@@ -38,7 +38,7 @@ class Sneaker private constructor(builder: Builder) {
         private var fragment: Fragment? = null
         private var viewGroup: ViewGroup? = null
         private var iconVisible: Boolean = true
-        private var duration: Int = 1000
+        private var duration: Int = 3000
         private var autoHide: Boolean = true
         private var buttonName: String = ""
         private var arrowIcon: Boolean = false
@@ -180,7 +180,7 @@ class Sneaker private constructor(builder: Builder) {
         initUi()
     }
 
-    fun initUi() {
+    private fun initUi() {
         val icon = view?.findViewById<ImageView>(R.id.icon)
         val buttonNameTextView = view?.findViewById<TextView>(R.id.buttonName)
         val titleTextView = view?.findViewById<TextView>(R.id.title)
@@ -189,7 +189,7 @@ class Sneaker private constructor(builder: Builder) {
         val buttonIcon = view?.findViewById<ImageView>(R.id.buttonIcon)
 
         titleTextView?.text = title
-        contentTextView?.text = title
+        contentTextView?.text = content
         buttonNameTextView?.text = buttonName
         if (listener != null) {
             buttonIcon?.setOnClickListener {
@@ -203,6 +203,9 @@ class Sneaker private constructor(builder: Builder) {
         }
         if (!iconVisible) {
             icon?.visibility = View.INVISIBLE
+        }
+        if (!arrowIcon){
+            buttonIcon?.visibility = View.GONE
         }
         if (animation){
             ViewAnimator

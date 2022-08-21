@@ -9,12 +9,13 @@
     android:layout_marginStart="15dp"
     android:layout_marginEnd="15dp"
     android:layout_marginTop="75dp"
+    app:cardCornerRadius="10dp"
+    app:cardBackgroundColor="#16BEF3"
     android:id="@+id/container">
 
   <androidx.constraintlayout.widget.ConstraintLayout
       android:layout_width="match_parent"
-      android:layout_height="150dp"
-      android:background="@drawable/warning_backgroud">
+      android:layout_height="150dp">
 
 
     <ImageView

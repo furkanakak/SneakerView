@@ -22,6 +22,16 @@
         <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/success_dialog.xml" value="0.2" />
         <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/layout/warning_dialog.xml" value="0.176" />
         <entry key="..\:/Users/furkan/AndroidStudioProjects/Sneaker/sneaker-view/src/main/res/xml/color.xml" value="0.1359375" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/drawable/danger_background.xml" value="0.1695" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.1695" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/drawable/info_background.xml" value="0.1695" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/drawable/success_background.xml" value="0.1695" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/drawable/warning_backgroud.xml" value="0.1695" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/layout/error_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/layout/info_dialog.xml" value="0.6" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/layout/info_dialog_error.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/layout/success_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/furkan/AndroidStudioProjects/SneakerView/sneaker-view/src/main/res/layout/warning_dialog.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

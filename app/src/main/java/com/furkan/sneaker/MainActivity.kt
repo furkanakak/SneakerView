@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
      Sneaker.Builder()
             .setActivity(this)
-            .setType(SneakerType.Success)
+            .setType(SneakerType.Error)
             .setTitle("deneme")
             .setSneakerDuration(3000)
             .setContent("denemecontent")
