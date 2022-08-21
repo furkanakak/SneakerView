@@ -27,8 +27,7 @@ implementation 'com.github.furkanakak:SneakerView:1.1'
 ```
 
 ## Usage
-
-For Sweet Success with Short Duration, Top Padding and Aligment : 
+ 
 ```
  binding.success.setOnClickListener {
             Log.v("sneaker","success")
