@@ -22,7 +22,9 @@ implementation 'com.github.furkanakak:SneakerView:1.1'
 
 For Sweet Success with Short Duration, Top Padding and Aligment : 
 ```
- Sneaker.Builder()
+ binding.success.setOnClickListener {
+            Log.v("sneaker","success")
+            Sneaker.Builder()
                 .setActivity(this) /* optionally, these -> .setFragment() .setViewGroup() */
                 .setType(SneakerType.Success)
                 .setTitle("Success")
@@ -32,7 +34,7 @@ For Sweet Success with Short Duration, Top Padding and Aligment :
                 .setAnimateDuration(1000)
                 .setAnimationRepeatCount(3)
                 .setArrowIcon(true)
-                .setButtonName("")
+                .setButtonName("Action")
                 .setAutoHide(false)
                 .setArrowIcon(true)
                 .setAnimation(true)
