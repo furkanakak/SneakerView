@@ -64,7 +64,7 @@ implementation 'com.github.furkanakak:SneakerView:1.1'
                 .setAnimation(true)
                 .setButtonIconListener(object : SneakerListener {
                     override fun onClickListener() {
-                        Log.v("buttonClick","buttonClick")
+                        //TODO work to do
                     }
                 })
                 .build()
