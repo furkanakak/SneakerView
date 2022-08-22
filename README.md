@@ -84,4 +84,12 @@ implementation 'com.github.furkanakak:SneakerView:1.1'
 **Furkan Akalın**
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/furkan-akalin/)
+ 
+  <img src="https://user-images.githubusercontent.com/80040232/185884317-d418f18f-b8b1-44a1-90c5-d3f456d6ae0b.png" width="70" align="left">
+
+
+**Osman Gül**
+
+[![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/osmangull/)
+
 
