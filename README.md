@@ -23,7 +23,7 @@ Add the code below to your project's settings.gradle file.
 ```
 Add the code below to your app's gradle file.
 ```
-implementation 'com.github.furkanakak:SneakerView:1.1'
+implementation 'com.github.furkanakak:SneakerView:1.2'
 
 ```
 
