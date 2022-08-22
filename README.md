@@ -24,7 +24,25 @@ Add the code below to your project's settings.gradle file.
 Add the code below to your app's gradle file.
 ```
 implementation 'com.github.furkanakak:SneakerView:1.1'
+
 ```
+
+ # Attributes
+
+  | Attribute | Description |
+| --- | --- |
+| `activity*` `fragment*` `viewGroup*`|Context is required for sneaker (by default null) | 
+| `title` | Title text for sneaker (by default  "") |
+| `iconVisible` | Setting icon visibility (by default true)|
+| `duration` | Sneaker visibility time (by default 3000)|
+| `autoHide` | Sneaker's auto-off state (by default true)|
+| `buttonName`|action text for sneaker (by default  "") |
+| `arrowIcon` |action icon visibility with listener (by default false) |
+| `view*` |The sneaker type is selected in the SneakerType type (by default null) |
+| `listener` |Assign listener for arrow icon (by default null) |
+| `animation` |turn animations off and on (by default true) |
+| `animateRepeatCount` |number of animation repeats (by default 0) |
+| `animateDuration` |animation realization time (by default 2000) |
 
 ## Usage
  
